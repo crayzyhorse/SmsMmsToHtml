@@ -1,4 +1,5 @@
 Command Line Tool.
+
 Convert xml to html with SMS and MMS media embedded.
 
 The problem is that many backup apps do not save MMS media along with 
@@ -27,7 +28,9 @@ Optional -n flag for setting the name or number you want to associate
 with outgoing messages.
 
 Example: SmsMmsToHtml.exe 2019-06-30.xml
+
 Example: -n=Jennifer 2019-06-30.xml
+
 Example: -n=432-555-8765 2019-06-30.xml
 
 Concerning emojis and special characters.
